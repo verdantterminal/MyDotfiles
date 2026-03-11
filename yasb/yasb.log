@@ -1,0 +1,394 @@
+2026-03-10 14:15:30,190 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:15:30,190 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:15:30,190 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:15:30,363 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:15:30,364 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:15:30,367 [INFO] [MainThread] [root/config.py:59]: Created default config file at C:\Users\verda\.config\yasb\config.yaml
+2026-03-10 14:15:30,397 [INFO] [MainThread] [root/config.py:73]: Created default stylesheet at C:\Users\verda\.config\yasb\styles.css
+2026-03-10 14:15:32,035 [ERROR] [MainThread] [root/weather.py:41]: API key or location is missing. Please provide a valid API key and location.
+2026-03-10 14:15:32,052 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-10 14:15:32,110 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-10 14:15:32,248 [ERROR] [MainThread] [root/weather.py:41]: API key or location is missing. Please provide a valid API key and location.
+2026-03-10 14:15:32,310 [INFO] [MainThread] [root/bar_manager.py:88]: Starting SystemEventListener...
+2026-03-10 14:15:32,310 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-10 14:15:32,311 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-10 14:15:32,312 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\verda\.config\yasb
+2026-03-10 14:15:32,312 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-10 14:15:32,606 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-8221f94b-1cb5-11f1-a198-001a7dda7115
+2026-03-10 14:15:32,627 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-10 14:16:29,332 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\verda\.config\yasb\config.yaml
+2026-03-10 14:17:38,404 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\verda\.config\yasb\config.yaml
+2026-03-10 14:17:38,426 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-10 14:17:38,533 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-10 14:17:38,533 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-10 14:17:38,540 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-10 14:17:38,656 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping SystemEventListener...
+2026-03-10 14:17:38,657 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-10 14:17:38,657 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-10 14:17:39,005 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:17:39,006 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:17:39,007 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:17:39,026 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:17:39,027 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:17:39,491 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-10 14:17:39,606 [WARNING] [MainThread] [root/widget_builder.py:37]: Ignoring construction of invalid widget 'weather'
+2026-03-10 14:17:39,661 [INFO] [MainThread] [root/bar_manager.py:88]: Starting SystemEventListener...
+2026-03-10 14:17:39,661 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-10 14:17:39,662 [ERROR] [MainThread] [root/widget_builder.py:111]: Failed to validate widget(s) due to invalid options  - weather
+      icons:
+        snowyIcyDay:
+        - Extra inputs are not permitted
+        snowyIcyNight:
+        - Extra inputs are not permitted
+      
+2026-03-10 14:17:39,686 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-ce0a0a0d-1cb5-11f1-af0c-001a7dda7115
+2026-03-10 14:17:39,701 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\verda\.config\yasb
+2026-03-10 14:17:39,701 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-10 14:17:39,756 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-10 14:25:49,496 [DEBUG] [Thread-8] [root/watcher.py:90]: Config file modified: c:\users\verda\.config\yasb\config.yaml
+2026-03-10 14:25:49,522 [ERROR] [MainThread] [root/config.py:121]: The config file 'C:\Users\verda\.config\yasb\config.yaml' contains validation errors. Please fix:
+widgets:
+  wweather:
+    str:
+    - Input should be a valid string
+    dict[str,any]:
+    - Input should be a valid dictionary
+
+2026-03-10 14:26:24,954 [DEBUG] [Thread-8] [root/watcher.py:90]: Config file modified: c:\users\verda\.config\yasb\config.yaml
+2026-03-10 14:26:24,967 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 225, column 2
+2026-03-10 14:26:39,685 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2026-03-10 14:26:39,788 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-10 14:26:39,788 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-10 14:26:39,908 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping SystemEventListener...
+2026-03-10 14:26:39,909 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-10 14:26:40,251 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:26:40,251 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:26:40,251 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:26:40,272 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:26:40,273 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:26:40,286 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 225, column 2
+2026-03-10 14:26:40,288 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-10 14:26:47,665 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:26:47,665 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:26:47,665 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:26:47,684 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:26:47,685 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:26:47,698 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 225, column 2
+2026-03-10 14:26:47,699 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-10 14:29:20,017 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:29:20,018 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:29:20,018 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:29:20,035 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:29:20,036 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:29:20,048 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 225, column 2
+2026-03-10 14:29:20,049 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-10 14:29:28,049 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:29:28,049 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:29:28,050 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:29:28,067 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:29:28,068 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:29:28,081 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 225, column 2
+2026-03-10 14:29:28,082 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-10 14:29:33,939 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:29:33,940 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:29:33,940 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:29:33,958 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:29:33,959 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:29:33,973 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 225, column 2
+2026-03-10 14:29:33,974 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-10 14:29:40,422 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:29:40,422 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:29:40,423 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:29:40,442 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:29:40,443 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:29:40,456 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 225, column 2
+2026-03-10 14:29:40,458 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-10 14:33:16,940 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:33:16,940 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:33:16,940 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:33:16,960 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:33:16,960 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:33:16,973 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 225, column 2
+2026-03-10 14:33:16,974 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-10 14:33:41,325 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:33:41,326 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:33:41,326 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:33:41,345 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:33:41,345 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:33:41,349 [INFO] [MainThread] [root/config.py:59]: Created default config file at C:\Users\verda\.config\yasb\config.yaml
+2026-03-10 14:33:41,781 [ERROR] [MainThread] [root/weather.py:41]: API key or location is missing. Please provide a valid API key and location.
+2026-03-10 14:33:41,799 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-10 14:33:41,855 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-10 14:33:41,969 [ERROR] [MainThread] [root/weather.py:41]: API key or location is missing. Please provide a valid API key and location.
+2026-03-10 14:33:42,034 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-10 14:33:42,035 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-10 14:33:42,035 [INFO] [MainThread] [root/bar_manager.py:88]: Starting SystemEventListener...
+2026-03-10 14:33:42,036 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\verda\.config\yasb
+2026-03-10 14:33:42,036 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-10 14:33:42,107 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-0ba8a436-1cb8-11f1-b240-001a7dda7115
+2026-03-10 14:33:42,132 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-10 14:34:24,250 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\verda\.config\yasb\config.yaml
+2026-03-10 14:34:24,263 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 225, column 2
+2026-03-10 14:35:44,490 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\verda\.config\yasb\config.yaml
+2026-03-10 14:35:44,502 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 225, column 2
+2026-03-10 14:38:11,927 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\verda\.config\yasb\config.yaml
+2026-03-10 14:38:11,937 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 225, column 2
+2026-03-10 14:38:19,359 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:38:19,359 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:38:19,359 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:38:19,360 [ERROR] [MainThread] [root/main.py:75]: Another instance of the YASB is already running.
+2026-03-10 14:38:25,149 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2026-03-10 14:38:25,261 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-10 14:38:25,261 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-10 14:38:25,376 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-10 14:38:25,377 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-10 14:38:25,377 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping SystemEventListener...
+2026-03-10 14:38:25,699 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:38:25,700 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:38:25,700 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:38:25,719 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:38:25,720 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:38:25,733 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 225, column 2
+2026-03-10 14:38:25,734 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-10 14:38:47,372 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:38:47,372 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:38:47,373 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:38:47,391 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:38:47,392 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:38:47,405 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 225, column 2
+2026-03-10 14:38:47,406 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-10 14:38:50,853 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:38:50,853 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:38:50,853 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:38:50,871 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:38:50,872 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:38:50,885 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 1, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 225, column 2
+2026-03-10 14:38:50,887 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-10 14:39:07,514 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:39:07,515 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:39:07,515 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:39:07,534 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:39:07,535 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:39:07,538 [INFO] [MainThread] [root/config.py:59]: Created default config file at C:\Users\verda\.config\yasb\config.yaml
+2026-03-10 14:39:07,976 [ERROR] [MainThread] [root/weather.py:41]: API key or location is missing. Please provide a valid API key and location.
+2026-03-10 14:39:07,994 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-10 14:39:08,052 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-10 14:39:08,163 [ERROR] [MainThread] [root/weather.py:41]: API key or location is missing. Please provide a valid API key and location.
+2026-03-10 14:39:08,216 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-10 14:39:08,217 [INFO] [MainThread] [root/bar_manager.py:88]: Starting SystemEventListener...
+2026-03-10 14:39:08,217 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-10 14:39:08,218 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\verda\.config\yasb
+2026-03-10 14:39:08,218 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-10 14:39:08,271 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-ce1400a8-1cb8-11f1-8bed-001a7dda7115
+2026-03-10 14:39:08,293 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-10 14:43:19,030 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\verda\.config\yasb\config.yaml
+2026-03-10 14:43:19,045 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2026-03-10 14:43:19,151 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-10 14:43:19,151 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-10 14:43:19,155 [INFO] [MainThread] [root/bar_manager.py:79]: Successfully loaded updated config and re-initialised all bars.
+2026-03-10 14:43:19,264 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-10 14:43:19,264 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping SystemEventListener...
+2026-03-10 14:43:19,265 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-10 14:43:19,595 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 14:43:19,596 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 14:43:19,596 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 14:43:19,616 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 14:43:19,617 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 14:43:20,028 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-10 14:43:20,084 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-10 14:43:20,249 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-10 14:43:20,250 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-10 14:43:20,250 [INFO] [MainThread] [root/bar_manager.py:88]: Starting SystemEventListener...
+2026-03-10 14:43:20,251 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\verda\.config\yasb
+2026-03-10 14:43:20,251 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-10 14:43:20,309 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-644d33f8-1cb9-11f1-b3e4-001a7dda7115
+2026-03-10 14:43:20,327 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-10 14:44:10,922 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\verda\.config\yasb\styles.css
+2026-03-10 14:44:15,989 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\verda\.config\yasb\styles.css
+2026-03-10 14:44:44,840 [DEBUG] [MainThread] [MediaWidget/media.py:486]: Unknown source app in session: '6F940AC27A98DD61' - consider adding to source_apps.py
+2026-03-10 14:44:49,812 [DEBUG] [MainThread] [MediaWidget/media.py:486]: Unknown source app in session: '6F940AC27A98DD61' - consider adding to source_apps.py
+2026-03-10 15:07:21,583 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 15:07:21,584 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 15:07:21,584 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 15:07:21,584 [ERROR] [MainThread] [root/main.py:75]: Another instance of the YASB is already running.
+2026-03-10 15:07:25,813 [INFO] [MainThread] [root/controller.py:37]: Exiting Application from tray...
+2026-03-10 15:07:25,922 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-10 15:07:25,922 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-10 15:07:26,025 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-10 15:07:26,026 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-10 15:07:26,026 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping SystemEventListener...
+2026-03-10 15:07:28,888 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 15:07:28,889 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 15:07:28,889 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 15:07:28,909 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 15:07:28,910 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 15:07:29,325 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-10 15:07:29,379 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-10 15:07:29,546 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-10 15:07:29,547 [INFO] [MainThread] [root/bar_manager.py:88]: Starting SystemEventListener...
+2026-03-10 15:07:29,547 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-10 15:07:29,548 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\verda\.config\yasb
+2026-03-10 15:07:29,548 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-10 15:07:29,607 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-c42667c7-1cbc-11f1-afcd-001a7dda7115
+2026-03-10 15:07:29,625 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-10 15:08:07,067 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\verda\.config\yasb\config.yaml
+2026-03-10 15:08:07,075 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 3, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 135, column 2
+2026-03-10 15:08:14,666 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2026-03-10 15:08:14,779 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-10 15:08:14,779 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-10 15:08:14,904 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-10 15:08:14,905 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping SystemEventListener...
+2026-03-10 15:08:14,905 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-10 15:08:15,208 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 15:08:15,209 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 15:08:15,209 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 15:08:15,230 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 15:08:15,231 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 15:08:15,240 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 3, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 135, column 2
+2026-03-10 15:08:15,241 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-10 15:08:19,795 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 15:08:19,795 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 15:08:19,796 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 15:08:19,816 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 15:08:19,817 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 15:08:19,826 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 3, column 1
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 135, column 2
+2026-03-10 15:08:19,827 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-10 15:09:35,490 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 15:09:35,490 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 15:09:35,491 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 15:09:35,513 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 15:09:35,513 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 15:09:35,938 [ERROR] [MainThread] [root/weather.py:41]: API key or location is missing. Please provide a valid API key and location.
+2026-03-10 15:09:35,956 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-10 15:09:36,014 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-10 15:09:36,127 [ERROR] [MainThread] [root/weather.py:41]: API key or location is missing. Please provide a valid API key and location.
+2026-03-10 15:09:36,207 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-10 15:09:36,207 [INFO] [MainThread] [root/bar_manager.py:88]: Starting SystemEventListener...
+2026-03-10 15:09:36,207 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-10 15:09:36,208 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\verda\.config\yasb
+2026-03-10 15:09:36,208 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-10 15:09:36,270 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-0fa51ebb-1cbd-11f1-a1fc-001a7dda7115
+2026-03-10 15:09:36,295 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-10 15:10:41,260 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\verda\.config\yasb\config.yaml
+2026-03-10 15:10:41,271 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 200, column 5
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 206, column 7
+2026-03-10 15:10:46,993 [INFO] [MainThread] [root/controller.py:15]: Reloading Application from tray...
+2026-03-10 15:10:47,096 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-10 15:10:47,096 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-10 15:10:47,206 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-10 15:10:47,206 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping SystemEventListener...
+2026-03-10 15:10:47,207 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping WindowsNotificationEventListener...
+2026-03-10 15:10:47,518 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 15:10:47,519 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 15:10:47,519 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 15:10:47,543 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 15:10:47,544 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 15:10:47,556 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 200, column 5
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 206, column 7
+2026-03-10 15:10:47,557 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-10 15:10:49,863 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 15:10:49,863 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 15:10:49,864 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 15:10:49,883 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 15:10:49,884 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 15:10:49,896 [ERROR] [MainThread] [root/config.py:133]: The file 'C:\Users\verda\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\verda\.config\yasb\config.yaml", line 200, column 5
+expected <block end>, but found '<block mapping start>'
+  in "C:\Users\verda\.config\yasb\config.yaml", line 206, column 7
+2026-03-10 15:10:49,897 [ERROR] [MainThread] [root/config.py:178]: User config file could not be loaded. Exiting Application.
+2026-03-10 15:12:21,139 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-10 15:12:21,139 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-10 15:12:21,140 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-10 15:12:21,161 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-10 15:12:21,161 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-10 15:12:21,583 [ERROR] [MainThread] [root/weather.py:41]: API key or location is missing. Please provide a valid API key and location.
+2026-03-10 15:12:21,601 [INFO] [MainThread] [root/service.py:41]: AudioInputService starting...
+2026-03-10 15:12:21,658 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-10 15:12:21,764 [ERROR] [MainThread] [root/weather.py:41]: API key or location is missing. Please provide a valid API key and location.
+2026-03-10 15:12:21,841 [INFO] [MainThread] [root/bar_manager.py:88]: Starting WindowsNotificationEventListener...
+2026-03-10 15:12:21,842 [INFO] [MainThread] [root/bar_manager.py:88]: Starting SystemEventListener...
+2026-03-10 15:12:21,842 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-10 15:12:21,842 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\verda\.config\yasb
+2026-03-10 15:12:21,842 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-10 15:12:21,908 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-725f0548-1cbd-11f1-874d-001a7dda7115
+2026-03-10 15:12:21,936 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-10 16:49:23,388 [INFO] [MainThread] [root/bar_helper.py:526]: AppBarManager need to re-register 2 bars
+2026-03-10 16:49:23,410 [INFO] [MainThread] [root/bar_helper.py:535]: Re-registered AppBar for primary-bar_LG HDR WFHD_7e652f14 (space reservation + fullscreen)
+2026-03-10 16:49:23,463 [INFO] [MainThread] [root/bar_helper.py:535]: Re-registered AppBar for primary-bar_VN279_53655e8f (space reservation + fullscreen)
+2026-03-10 17:52:38,158 [DEBUG] [Thread-6] [root/watcher.py:84]: Stylesheet modified: c:\users\verda\.config\yasb\styles.css
+2026-03-10 17:52:38,171 [DEBUG] [Thread-6] [root/watcher.py:90]: Config file modified: c:\users\verda\.config\yasb\config.yaml

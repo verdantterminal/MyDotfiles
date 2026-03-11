@@ -1,0 +1,2 @@
+make sure to create a restore point, just to be safe if any files get corrupted but don't worry, it's fine.
+also make sure you click apply when you create your restore point.
